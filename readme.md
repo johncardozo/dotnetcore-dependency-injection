@@ -24,5 +24,5 @@ Reflection provides objects that describe assemblies, modules and types. You can
 This example shows how to implement the dependency inversion principle using Dependency Injection in C#. This example also uses reflection to allow get the implementation class from a settings file to allow configure which class will execute the action without recompile the app.
 
 To execute this example:
-- dotnet restore
-- dotnet run
+* dotnet restore
+* dotnet run
